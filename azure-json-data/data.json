@@ -248,33 +248,49 @@
     }
   ],
 
-  "azureCustomers": [
+  "CustomersList": [
     {
       "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Fujitsu_img?wid=192&hei=60&fit=crop",
-      "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Fujitsu-banner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fit=constrain",
-      "text": "Fujitsu increased efficiency and reduced costs by migrating its on-premises datacenters to Azure and by modernizing with a cloud-first strategy"
+      "value": "Fujitsu"
     },
     {
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/NBA_25_58?wid=192&hei=60&fit=crop",
-      "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer_nba?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3632&qlt=100&fit=constrain",
-      "text": "The NBA used Azure to deliver innovative experiences that keep fans engaged and help referees make consistent calls across all games"
+      "value": "NBA"
     },
     {
       "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HR-block?wid=192&hei=60&fit=crop",
-      "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HR_bannner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&qlt=100&fit=constrain",
-      "text": "H&R Block optimizes the tax return process using Azure AI and Azure Machine Learning to quickly digitize data from forms"
+      "value": "HandR"
     },
     {
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/home_nhs-logo?wid=192&hei=60&fit=crop",
-      "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/nhs-home-customerstory?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=600&qlt=75",
-      "text": "North Umbria Healthcare NHS Foundation Trust is helping doctors turn data into medical insights with Azure Machine Learning and the Responsible AI Dashboard"
+      "value": "NHS"
     },
     {
       "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forza?wid=192&hei=60&fit=crop",
-      "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/forza-horizon-customerstory?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain",
-      "text": "Turn 10 Studios created a turbocharged gaming architecture for Forza Horizon 5 using Azure Kubernetes Service (AKS) and other Azure services"
+      "value": "Forza"
     }
   ],
+
+  "Fujitsu": {
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Fujitsu-banner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fit=constrain",
+    "text": "Fujitsu increased efficiency and reduced costs by migrating its on-premises datacenters to Azure and by modernizing with a cloud-first strategy"
+  },
+  "NBA": {
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer_nba?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3632&qlt=100&fit=constrain",
+    "text": "The NBA used Azure to deliver innovative experiences that keep fans engaged and help referees make consistent calls across all games"
+  },
+  "HandR": {
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HR_bannner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&qlt=100&fit=constrain",
+    "text": "H&R Block optimizes the tax return process using Azure AI and Azure Machine Learning to quickly digitize data from forms"
+  },
+  "NHS": {
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/nhs-home-customerstory?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=600&qlt=75",
+    "text": "North Umbria Healthcare NHS Foundation Trust is helping doctors turn data into medical insights with Azure Machine Learning and the Responsible AI Dashboard"
+  },
+  "Forza": {
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/forza-horizon-customerstory?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain",
+    "text": "Turn 10 Studios created a turbocharged gaming architecture for Forza Horizon 5 using Azure Kubernetes Service (AKS) and other Azure services"
+  },
 
   "accelarationMigration": {
     "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/home_accelerate?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=500&hei=400&qlt=75&fmt=png-alpha&fit=crop",
