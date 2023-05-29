@@ -254,7 +254,7 @@
       "value": "Fujitsu"
     },
     {
-      "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer_nba?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3632&qlt=100&fit=constrain",
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/NBA_25_58?wid=192&hei=60&fit=crop",
       "value": "NBA"
     },
     {
@@ -272,11 +272,11 @@
   ],
 
   "Fujitsu": {
-    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer_nba?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3632&qlt=100&fit=constrain",
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Fujitsu-banner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fit=constrain",
     "text": "Fujitsu increased efficiency and reduced costs by migrating its on-premises datacenters to Azure and by modernizing with a cloud-first strategy"
   },
   "NBA": {
-    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HR_bannner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fit=constrain",
+    "backgroundImg": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer_nba?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1816&qlt=100&fit=constrain",
     "text": "The NBA used Azure to deliver innovative experiences that keep fans engaged and help referees make consistent calls across all games"
   },
   "HandR": {
@@ -293,7 +293,7 @@
   },
 
   "accelarationMigration": {
-    "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/home_accelerate?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=500&hei=400&qlt=75&fmt=png-alpha&fit=crop",
+    "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/home_accelerate?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=800&qlt=75&fmt=png-alpha&fit=crop",
     "text": "Accelerate your migration and modernization with Azure"
   },
 
