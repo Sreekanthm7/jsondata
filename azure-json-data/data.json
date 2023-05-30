@@ -336,16 +336,19 @@
   },
   "azureSupport": [
     {
+      "bg": "#243a5e",
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/pricing06?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=75&fit=constrain",
       "title": "Start building on Azure free",
       "text": "Get popular services free for 12 months and 55+ other services free always—plus USD 200&nbsp;credit to use in your first 30 days."
     },
     {
+      "bg": "#000",
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/home_icon-chat?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=75&fit=constrain",
       "title": "Connect with a sales specialist",
       "text": "Chat with or call a sales specialist for personalized guidance."
     },
     {
+      "bg": "#0062ad",
       "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/book-alt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=75&fit=constrain",
       "title": "New to Azure? Learn at your own pace",
       "text": "Learn the basics of cloud computing and Azure with self-paced modules on Microsoft Learn."
