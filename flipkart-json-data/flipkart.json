@@ -100,7 +100,7 @@
     }
   ],
   "saleIsLive": [
-    "https://rukminim1.flixcart.com/fk-p-flap/352/70/image/d25386b0d1aae989.jpg?q=80"
+    "https://rukminim2.flixcart.com/fk-p-flap/650/150/image/d25386b0d1aae989.jpg?q=90"
   ],
   "salesLiveCards": [
     "https://rukminim1.flixcart.com/fk-p-flap/250/300/image/d8feac49367f6479.jpeg?q=90",
@@ -109,31 +109,5 @@
     "https://rukminim1.flixcart.com/fk-p-flap/250/300/image/87bd2a334c668eeb.jpg?q=90",
     "https://rukminim1.flixcart.com/fk-p-flap/117/125/image/f7641f9063766c11.jpg?q=80",
     "https://rukminim1.flixcart.com/fk-p-flap/235/250/image/d2dcb6ee66e666aa.jpg?q=60"
-  ],
-  "shopMonthlyEssentialsMobile": {
-    "backgroundImg": "https://rukminim1.flixcart.com/fk-p-reco/750/200/images/reco_New_EOSS_c7f590.jpg?q=90",
-    "text": "Shop Monthly Essentials"
-  },
-  "shopMonthlyEssentialsCards": [
-    {
-      "img": "https://rukminim1.flixcart.com/image/300/300/khtghow0-0/vitamin-supplement/a/j/c/50-vitamin-e-pack-of-50-capsules-face-hair-pimple-glowing-skin-original-imafxqttfpqsazf3.jpeg?q=90",
-      "text": "Vitamin Supplement",
-      "link": "Min. 50% Off"
-    },
-    {
-      "img": "https://rukminim1.flixcart.com/image/139/139/kl5hh8w0/shaving-razor/8/u/v/silver-folding-stainless-steel-straight-razor-salon-and-personal-original-imagyca2xzzbydtb.jpeg?q=80",
-      "text": "Shaving & Beard Care",
-      "link": "Min. 50% Off"
-    },
-    {
-      "img": "https://rukminim1.flixcart.com/image/300/300/jyvvgcw0/sunscreen/n/p/p/50-phyto-rx-whitening-brightening-creme-spf-25-pa-50-g-0-lotus-original-imaeza447vsjvefm.jpeg?q=90",
-      "text": "Body And Face Care",
-      "link": "Min. 50% Off"
-    },
-    {
-      "img": "https://rukminim1.flixcart.com/image/300/300/xif0q/electric-insect-killer/q/i/u/anti-rat-mosquito-insect-lizard-spider-ants-rodents-cockroaches-original-imaghfxab8wyner3.jpeg?q=90",
-      "text": "Mosquito Killers",
-      "link": "Min. 50% Off"
-    }
   ]
 }
