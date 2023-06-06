@@ -109,5 +109,295 @@
     "https://rukminim1.flixcart.com/fk-p-flap/250/300/image/87bd2a334c668eeb.jpg?q=90",
     "https://rukminim1.flixcart.com/fk-p-flap/117/125/image/f7641f9063766c11.jpg?q=80",
     "https://rukminim1.flixcart.com/fk-p-flap/235/250/image/d2dcb6ee66e666aa.jpg?q=60"
+  ],
+
+  "flipkartDesktopNav": [
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/29327f40e9c4d26b.png?q=100",
+      "text": "Grocery"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100",
+      "text": "Mobiles"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/fk-p-flap/128/128/image/0d75b34f7d8fbcb3.png?q=100",
+      "text": "Fashion"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/69c6589653afdb9a.png?q=100",
+      "text": "Electronics"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/ab7e2b022a4587dd.jpg?q=100",
+      "text": "Home"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100",
+      "text": "Appliances"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/71050627a56b4693.png?q=100",
+      "text": "Travel"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100",
+      "text": "Top Offers"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/flap/128/128/image/dff3f7adcf3a90c6.png?q=100",
+      "text": "Beauty, Toys, & More"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/fk-p-flap/128/128/image/05d708653beff580.png?q=100",
+      "text": "Two Wheelers"
+    }
+  ],
+
+  "DesktopCarousel": [
+    "https://rukminim1.flixcart.com/fk-p-flap/1688/280/image/6f550b3432d40440.jpg?q=50",
+    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/ca2843e62171405e.jpg?q=50",
+    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/1764ceef2da9c292.jpg?q=50",
+    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/7fd0e4ab26429926.jpg?q=50"
+  ],
+
+  "BestOfElectronics": {
+    "text": "Best of Electronics",
+    "backgroundImg": "https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90"
+  },
+
+  "ElectronicsDesktop": [
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/l5jxt3k0/dslr-camera/m/n/a/-original-imagg7hsggshhwbz.jpeg?q=70",
+      "heading": "Top Mirrorless Cameras",
+      "link": "Shop Now!",
+      "text": "Canon, Sony, Fujifilm..."
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kobspe80/power-bank/x/b/j/power-bank-dx09-b-holder-20000-mah-20000-dx09-b-holder-callmate-original-imag2tfbuzzaj3tc.jpeg?q=70",
+      "heading": "Premium PowerBanks",
+      "link": "Shop Now",
+      "text": "Mi, realme & more"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kxnl6kw0/monitor/d/g/t/vz279heg1r-full-hd-27-90lm05t1-b01e10-asus-original-imaga25utdafpent.jpeg?q=70",
+      "heading": "ASUS Monitors",
+      "link": "From ₹14999",
+      "text": "Top Rated"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70",
+      "heading": "Printers",
+      "link": "From ₹3999",
+      "text": "HP"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70",
+      "heading": "Monitors",
+      "link": "From ₹7949",
+      "text": "Lenovo"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kactpjk0/shaver/m/6/z/philips-s1121-45-s1121-45-original-imafry2qgxcwnm9r.jpeg?q=70",
+      "heading": "Best of Shavers",
+      "link": "From ₹1,649",
+      "text": "Philips & Havells"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70",
+      "heading": "Projectors",
+      "link": "From ₹9999",
+      "text": "ZEBRONICS"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70",
+      "heading": "Best of Hair Dryers",
+      "link": "From ₹549",
+      "text": "realme, Philips & more"
+    }
+  ],
+
+  "Advertisment": [
+    "https://rukminim1.flixcart.com/fk-p-flap/464/708/image/8a4ce9fad39469e3.jpg?q=70"
+  ],
+  "BeautyFoodToysAndMore": {
+    "text": "Beauty,Food, Toys & more",
+    "backgroundImg": "https://rukminim1.flixcart.com/fk-p-flap/278/278/image/b84f1c22cce1a6a3.jpg?q=90"
+  },
+  "BeautyFoodToysAndMoreDesktopCards": [
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/k0plpjk0/remote-control-toy/9/g/k/4-function-remote-control-high-speed-big-racing-car-toy-funkey-original-imafkg33umd8dy93.jpeg?q=70",
+      "heading": "Remote Control Toys",
+      "link": "Up to 80% Off",
+      "text": "Buy Now!"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kz5vwy80/helmet/o/4/k/-original-imagb8azfdthjhqr.jpeg?q=70",
+      "heading": "Rider Helmets",
+      "link": "From 699",
+      "text": "Vega, Steelbird, HRX and More"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/400/400/l111lzk0/cycle/m/r/e/xc-900-grey-lite-26-15-5-cradiac-21-gear-120-original-imagczuzpxeweczm.jpeg?q=70",
+      "heading": "Geared Cycles",
+      "link": "From ₹ 3999",
+      "text": "Leader, Cradiac & more"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/400/400/jwqpocw0/microphone-accessory/8/j/s/easy-way-wireless-handheld-bluetooth-mic-with-speaker-bluetooth-original-imafgtg9zgcwcdzg.jpeg?q=70",
+      "heading": "Microphones",
+      "link": "Up to 70% off",
+      "text": "Explore Now!"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/l58iaa80/electric-cycle/i/y/f/-original-imagfykthgudy4qz.jpeg?q=70",
+      "heading": "Electric Cycle",
+      "link": "Up to 40% Off",
+      "text": "Nuze, Motovolt & more"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/k7w8eq80/two-wheeler-tyre/v/y/s/90-90-12-106061-milaze-tl-54j-sw-ceat-original-imafqyx5tnfraaxh.jpeg?q=70",
+      "heading": "Tyres",
+      "link": "From 799",
+      "text": "Apollo, Bridgestone, Ceat and"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/400/400/kzzw5u80/coffee/s/b/x/-original-imagbwf3wvhzfh5z.jpeg?q=70",
+      "heading": "Coffee Powder",
+      "link": "Upto 80% Off",
+      "text": "Nescafe, Continental & More"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/l51d30w0/shopsy-sport-mat/p/w/s/anadi-01-yoga-mat-4-30-anadi-enterprise-15-original-imagfsxudxcm7r48.jpeg?q=70",
+      "heading": "Yoga Mat",
+      "link": "From ₹ 159",
+      "text": "beatXP, HRX & Adrenex"
+    }
+  ],
+
+  "SportEssentialsDesktopCards": [
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kn3i1zk0/band/g/e/y/13-resistance-bands-tube-1-48-acjin-enterprise-original-imagfujsbvd9nduz.jpeg?q=70",
+      "heading": "Fitness Accessories",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/pump/d/e/d/double-action-air-st-1556-strauss-original-imagqfphcgbz8z9z.jpeg?q=70",
+      "heading": "Cycling Accessories",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kzblocw0/cycle/p/q/b/x-factor-sporty-20-240-tire-tube-for-age-5-to-10-years-20-t-bmx-original-imagbczfz4vkjupy.jpeg?q=70",
+      "heading": "Cycles",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/jw9ke4w0/sport-glove/c/4/8/left-right-lets-slim-m-ah-riding-gloves-100-34-riding-gloves-original-imaffuwkjgk2grf6.jpeg?q=70",
+      "heading": "Riding Gloves",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/knrsjgw0/board/x/n/e/wooden-carrom-board-with-coins-striker-and-carrom-powder-20-inch-original-imag2dzzna9cymxc.jpeg?q=70",
+      "heading": "Carrom",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kykgb680/bat/1/m/6/650-680-7-star-wooden-silver-baseball-bat-33-inch-2022021-grade-original-imagar3g2kzyezhh.jpeg?q=70",
+      "heading": "Baseball",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/knxiavk0/ball/d/s/s/10-standard-6-rubber-tennis-ball-6-na-tennis-ball-krypton-max-original-imag2hsqhxvqqqme.jpeg?q=70",
+      "heading": "Tennis",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/ball/9/k/8/0-408-green-and-white-5-throw-ball-green-throw-ball-original-imagmvfzetcpb9zy.jpeg?q=70",
+      "heading": "Throwballs",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/fishing-rod/w/7/w/210-full-set-fishing-hub-original-imagprygq7ybbbug.jpeg?q=70",
+      "heading": "Fishing",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/knhsgi80/ball/6/7/0/200-standard-10-rjtbr12-12-986532-table-tennis-ball-rockjon-original-imag25sdugmnbx79.jpeg?q=70",
+      "heading": "Table Tennis",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/sport-mat/o/c/n/-original-imagnzc8hfjsfpdq.jpeg?q=70",
+      "heading": "Yoga Mats",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/jb13te80/cue-stick/j/c/d/blue-laxmi-ganesh-billiard-original-imafyffzfkaggzxp.jpeg?q=70",
+      "heading": "Pool",
+      "link": "Min. 50% Off"
+    }
+  ],
+
+  "MonsoonEssentialsDesktopCards": [
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/cap/k/a/u/free-new-fashion-speqta-original-imaggbugymfewgtg.jpeg?q=70",
+      "heading": "Men's Caps",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/raincoat/2/t/6/xl-smart-rain-coat-topware-original-imafgu8uqxagafus-bb.jpeg?q=70",
+      "heading": "Men And Women Raincoats",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/emergency-light/y/e/9/multifunction-keychain-rechargeable-led-light-with-bottle-opener-original-imaghtfadhnysgsh.jpeg?q=70",
+      "heading": "Emergency Lights",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kod858w0/snack-savourie/x/1/p/500-500g-fresh-kolkata-bengali-style-yammi-tasty-khatta-mittha-original-imag2twfa8js2yk4.jpeg?q=70",
+      "heading": "Namkeen",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/flash/flash/v/a/o/keychain-led-light-with-bottle-opener-magnetic-base-and-folding-original-imagkj4hdhvvn6g5.jpeg?q=70",
+      "heading": "Emergency Bulbs",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kxrvi4w0/carpet-rug/o/h/4/45-60-artificial-green-grass-floor-mat-habitat-original-imaga5kjwshy5adz.jpeg?q=70",
+      "heading": "Carpet Rugs",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/ayurvedic/r/d/u/shilajit-for-strength-power-stamina-1-best-choice-nutrition-original-imagn5spfrvqkd48.jpeg?q=70",
+      "heading": "General Wellness",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/kt7jv680/immersion-rod/g/h/j/2000-premium-quality-2000w-antronic-original-imag6hzuqr9dszb8.jpeg?q=70",
+      "heading": "Immersion Rods",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/fog-lamp-unit/s/p/q/60-mini-driving-low-power-projector-light-led-car-fog-light-for-original-imagh3wqqsfwwuys.jpeg?q=70",
+      "heading": "Vehicle Lights",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/cloth-dryer-stand/v/x/f/50-12-month-warranty-pipe-cloth-stand-black-big-fsb-002-unizone-original-imagzdtjbnxxpbcx.jpeg?q=70",
+      "heading": "Cloth Dryers Stands",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/jz30nm80/voltage-stabilizer/h/h/h/microtek-em4160-em4160-digital-display-for-ac-upto-1-5ton-160v-original-imafj6kswawmvgqh.jpeg?q=70",
+      "heading": "Voltage Stabilizers",
+      "link": "Min. 50% Off"
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/200/200/xif0q/raincoat/z/g/c/9-10-years-boy-s-plain-raincoat-kolva-original-imagbfa45dmmvfku-bb.jpeg?q=70",
+      "heading": "Kid's Raincoats",
+      "link": "Min. 50% Off"
+    }
   ]
 }
