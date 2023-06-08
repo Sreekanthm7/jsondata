@@ -757,6 +757,10 @@
     }
   ],
 
+  "SportsEssentialMainCard": [
+    "Sports & Fitness Essentials"
+  ],
+
   "SportEssentialsDesktopCards": [
     {
       "img": "https://rukminim1.flixcart.com/image/200/200/kn3i1zk0/band/g/e/y/13-resistance-bands-tube-1-48-acjin-enterprise-original-imagfujsbvd9nduz.jpeg?q=70",
@@ -818,6 +822,10 @@
       "heading": "Pool",
       "link": "Min. 50% Off"
     }
+  ],
+
+  "MonsoonEssentialsMainCard": [
+    "Monsoon Essentials"
   ],
 
   "MonsoonEssentialsDesktopCards": [
