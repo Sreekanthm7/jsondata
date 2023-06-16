@@ -110,6 +110,13 @@
     "https://rukminim1.flixcart.com/fk-p-flap/117/125/image/f7641f9063766c11.jpg?q=80",
     "https://rukminim1.flixcart.com/fk-p-flap/235/250/image/d2dcb6ee66e666aa.jpg?q=60"
   ],
+    "DesktopCarousel": [
+    "https://rukminim1.flixcart.com/fk-p-flap/1688/280/image/6f550b3432d40440.jpg?q=50",
+    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/ca2843e62171405e.jpg?q=50",
+    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/1764ceef2da9c292.jpg?q=50",
+    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/7fd0e4ab26429926.jpg?q=50"
+  ],
+
 
   "flipkartDesktopNav": [
     {
@@ -154,12 +161,6 @@
     }
   ],
 
-  "DesktopCarousel": [
-    "https://rukminim1.flixcart.com/fk-p-flap/1688/280/image/6f550b3432d40440.jpg?q=50",
-    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/ca2843e62171405e.jpg?q=50",
-    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/1764ceef2da9c292.jpg?q=50",
-    "https://rukminim1.flixcart.com/fk-p-flap/3376/560/image/7fd0e4ab26429926.jpg?q=50"
-  ],
 
   "BestOfElectronics": {
     "text": "Best of Electronics",
